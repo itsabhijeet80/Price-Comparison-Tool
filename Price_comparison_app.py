@@ -2,6 +2,17 @@ from tkinter import *
 from bs4 import BeautifulSoup
 import requests
 #this is review for deepsource ai pr bot
+
+def hi():
+
+    print("when to do this")
+    log.error("this is wrong")
+
+
+x=5
+y=8
+
+
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.34'}
 
